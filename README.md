@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=32B8C6¢er=true&width=600&lines=Computer+Science+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=32B8C6¢er=true&width=600&lines=Information+Technology+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ### 🚀 About Me
 
-💡 **Information Technology Student** passionate about solving problems and building scalable systems.  
+💡 **IT Student** passionate about solving problems and building scalable systems.  
 🌩️ Exploring **Cloud Computing**, **AI/ML**, and **System Design**.  
 📚 Currently preparing for **GATE CS 2026** while deepening knowledge in **Advanced DSA**.  
 🧠 Love working with **Python**, **JavaScript**, **C++**, and **Google Cloud**.  
