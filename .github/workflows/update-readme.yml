@@ -1,49 +1,32 @@
 name: Update README
-
 on:
   schedule:
-    - cron: '*/1 * * * *'  # ⏱ Runs every 1 minute for testing
-  workflow_dispatch:  # allows manual run
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
+# give the workflow explicit permissions (if you still rely on GITHUB_TOKEN in other steps)
 permissions:
-  contents: write  # required for committing/pushing
+  contents: write
+  actions: read
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true
-          fetch-depth: 0
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Update README with latest activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: '⚡ Update README with latest activity'
-          MAX_LINES: 10
-
-      - name: Generate Snake (contribution graph)
-        uses: Platane/snk@master
-        with:
-          github_user_name: Niraj1232005
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Configure git user
+      - name: Make changes to README
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # your readme update commands here (example)
+          echo "Updated at $(date -u)" >> README.md
+          git add README.md
+          git commit -m "ci: update README timestamp" || echo "no changes to commit"
 
-      - name: Commit and push changes (if any)
-        uses: EndBug/add-and-commit@v9
+      - name: Push changes using PAT
+        uses: ad-m/github-push-action@master
         with:
-          author_name: github-actions[bot]
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: "⚡ Update README and generated assets"
-          add: "dist README.md"
-          push: true
+          # Use the PAT you saved in repo secrets (create GH_PAT first)
+          github_token: ${{ secrets.GH_PAT }}
+          branch: main
+          force: false
