@@ -20,6 +20,10 @@
 
 <div align="center">
 
+<!--START_SECTION:activity-->
+<!-- The github-activity-readme action will replace this section with your recent activity -->
+<!--END_SECTION:activity-->
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Niraj1232005&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj1232005&layout=compact&theme=algolia&hide_border=true)
@@ -27,7 +31,6 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niraj1232005&theme=algolia&hide_border=true)
 
 </div>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
