@@ -46,6 +46,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niraj1232005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj1232005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
+
 </div>
 
 <div align="center">
@@ -124,4 +125,3 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ⭐️ From [Niraj1232005](https://github.com/Niraj1232005) with 💙
-Updated at Tue Nov  4 15:03:46 UTC 2025
