@@ -2,21 +2,21 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours (UTC)
-  workflow_dispatch:
+    - cron: '*/1 * * * *'  # ⏱ Runs every 1 minute for testing
+  workflow_dispatch:  # allows manual run
 
-# Grant explicit write permission so commits/pushes succeed
 permissions:
-  contents: write
+  contents: write  # required for committing/pushing
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true   # allow git push with GITHUB_TOKEN
+          persist-credentials: true
           fetch-depth: 0
 
       - name: Update README with latest activity
