@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Niraj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32B8C6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32B8C6&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student passionate about **Cloud Computing** and **AI**
+- 🎓 Information Technology Student passionate about **Cloud Computing** and **AI**
 - ☁️ Building cloud-native applications with **Google Cloud Platform**
 - 🤖 Exploring **Machine Learning**, **Data Engineering**, and **System Design**
 - 🎯 Preparing for **GATE CS 2026** to strengthen fundamentals
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niraj1232005&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Niraj1232005&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niraj1232005&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niraj1232005&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Niraj1232005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Niraj1232005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -80,8 +80,7 @@
 
 <div align="center">
 
-- Total commits (across repos): **<!--TOTAL_COMMITS-->**
-- Profile views: <img src="https://komarev.com/ghpvc/?username=Niraj1232005&color=32b8c6&style=flat" alt="profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Niraj1232005&color=32b8c6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -91,32 +90,19 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=Voynex&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/Voynex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=book-recommendation-system-ml-knn&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/book-recommendation-system-ml-knn)
 
 </div>
-
-*(Replace YOUR_REPO_1 and YOUR_REPO_2 with real repo names and short descriptions.)*
 
 ---
 
 ## 🎯 Current Focus
 
-I like to keep a clean, readable "focus" section — shown below both as text and as a JSON-like object for clarity.
-
-- Learning: Advanced DSA, System Design, Cloud Architecture  
-- Building: AI Recommendation Systems, Cloud-Native Apps  
-- Preparing: GATE CS 2026  
-- Exploring: Machine Learning, Data Engineering, Distributed Systems
-
-```json
-{
-  "learning": ["Advanced DSA", "System Design", "Cloud Architecture"],
-  "building": ["AI Recommendation Systems", "Cloud-Native Apps"],
-  "preparing": "GATE CS 2026",
-  "exploring": ["Machine Learning", "Data Engineering", "Distributed Systems"]
-}
-```
+- 🎓 **Learning:** Advanced DSA, System Design, Cloud Architecture
+- 🔨 **Building:** AI Recommendation Systems, Cloud-Native Apps
+- 📚 **Preparing:** GATE CS 2026
+- 🔍 **Exploring:** Machine Learning, Data Engineering, Distributed Systems
 
 ---
 
@@ -137,11 +123,4 @@ I like to keep a clean, readable "focus" section — shown below both as text an
 ### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Niraj1232005/Niraj1232005/output/github-contribution-grid-snake-dark.svg)
-
 ⭐️ From [Niraj1232005](https://github.com/Niraj1232005) with 💙
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
