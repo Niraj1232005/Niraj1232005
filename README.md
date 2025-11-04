@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=32B8C6¢er=true&width=600&lines=Information+Technology+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=32B8C6¢er=true&width=600&lines=Information+Technology+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspir[...]
 
 </div>
 
@@ -49,9 +49,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-rathod-6589932a0)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:niraj.rathod@vit.edu.in)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Niraj1232005)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-rathod-6589932a0)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niraj.rathod@vit.edu.in)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Niraj1232005)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Niraj1232005&color=32b8c6&style=flat)
 
