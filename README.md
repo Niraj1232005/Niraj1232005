@@ -43,15 +43,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niraj1232005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj1232005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Main Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Niraj1232005&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
 
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=Niraj1232005&theme=dark&hide_border=false" height="165" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Niraj1232005&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Niraj1232005&theme=dark&hide_border=false&layout=compact" height="165" />
 
 </div>
 
@@ -125,25 +124,3 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ⭐️ From [Niraj1232005](https://github.com/Niraj1232005) with 💙
-Updated at Wed Nov  5 01:18:45 UTC 2025
-Updated at Thu Nov  6 01:18:08 UTC 2025
-Updated at Fri Nov  7 01:17:37 UTC 2025
-Updated at Sat Nov  8 01:13:44 UTC 2025
-Updated at Sun Nov  9 01:21:08 UTC 2025
-Updated at Mon Nov 10 01:20:55 UTC 2025
-Updated at Tue Nov 11 01:18:51 UTC 2025
-Updated at Wed Nov 12 01:18:11 UTC 2025
-Updated at Thu Nov 13 01:18:57 UTC 2025
-Updated at Fri Nov 14 01:18:07 UTC 2025
-Updated at Sat Nov 15 01:16:05 UTC 2025
-Updated at Sun Nov 16 01:23:07 UTC 2025
-Updated at Mon Nov 17 01:19:07 UTC 2025
-Updated at Tue Nov 18 01:18:19 UTC 2025
-Updated at Wed Nov 19 01:17:50 UTC 2025
-Updated at Thu Nov 20 01:16:36 UTC 2025
-Updated at Fri Nov 21 01:17:16 UTC 2025
-Updated at Sat Nov 22 01:14:55 UTC 2025
-Updated at Sun Nov 23 01:28:05 UTC 2025
-Updated at Mon Nov 24 01:23:09 UTC 2025
-Updated at Tue Nov 25 01:18:15 UTC 2025
-Updated at Wed Nov 26 01:18:27 UTC 2025
