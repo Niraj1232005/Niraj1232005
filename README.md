@@ -2,7 +2,7 @@
 
 # Niraj Rathod
 
-**Full Stack Developer · AI/ML Enthusiast · B.Tech IT @ VIT Mumbai**
+**Full Stack Developer · AI/ML & Cybersecurity Enthusiast · B.Tech IT @ VIT Mumbai**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nirajrathod.me-black?style=flat-square&logo=vercel&logoColor=white)](https://nirajrathod.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niraj14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj14)
@@ -61,12 +61,12 @@ Full-stack travel platform with OpenAI-powered packing recommendations, live wea
 ### Currently
 
 - 🔨 &nbsp;Shipping projects in Next.js, TypeScript, and Python
-- 📈 &nbsp;Solving DSA problems on LeetCode (100+ and growing)
+- 📈 &nbsp;Solving DSA problems on LeetCode
 - 🤝 &nbsp;Open to internship opportunities — full stack or ML roles
 - 📬 &nbsp;Reach me at [rathodniraj.com@gmail.com](mailto:rathodniraj.com@gmail.com)
 
 ---
 
 <div align="center">
-<sub>Mumbai, India · Updated 2025</sub>
+<sub>Mumbai, India · Updated 2026</sub>
 </div>
