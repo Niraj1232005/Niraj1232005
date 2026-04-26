@@ -1,126 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Niraj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+# Niraj Rathod
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32B8C6&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Cloud+%26+AI+Enthusiast;GATE+CS+2026+Aspirant;Building+Scalable+Solutions)](https://git.io/typing-svg)
+**Full Stack Developer · AI/ML Enthusiast · B.Tech IT @ VIT Mumbai**
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Information Technology Student passionate about **Cloud Computing** and **AI**
-- ☁️ Building cloud-native applications with **Google Cloud Platform**
-- 🤖 Exploring **Machine Learning**, **Data Engineering**, and **System Design**
-- 🎯 Preparing for **GATE CS 2026** to strengthen fundamentals
-- 💡 Love turning complex problems into elegant, scalable solutions
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nirajrathod.me-black?style=flat-square&logo=vercel&logoColor=white)](https://nirajrathod.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niraj14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj14)
+[![Email](https://img.shields.io/badge/Email-rathodniraj.com@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodniraj.com@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### About
+
+I'm a 3rd year Information Technology student at Vidyalankar Institute of Technology (CGPA: 9.56/10) who builds and ships full-stack web applications. My work spans secure authentication systems, AI-powered platforms, and ML pipelines — with a focus on writing production-ready code, not just prototypes.
+
+Currently looking for **software engineering internships** where I can contribute to real products.
+
+---
+
+### Tech Stack
+
+**Frontend** — React.js · Next.js · TypeScript · Tailwind CSS · Shadcn UI
+
+**Backend** — Node.js · Express.js · FastAPI · Flask · REST APIs · JWT · OAuth
+
+**Databases** — PostgreSQL · MongoDB · MySQL · Supabase · FAISS
+
+**ML / AI** — TensorFlow · Scikit-learn · Sentence Transformers · RAG · TF-IDF · KNN
+
+**Cloud & Tools** — AWS (EC2, S3) · GCP · Git · Postman · Linux
+
+---
+
+### Projects
+
+#### 🔐 [AI-Driven Intrusion Detection System with Explainable RAG](https://github.com/Niraj1232005/AI-Driven-Intrusion-Detection)
+> Python · TensorFlow · FastAPI · Kafka · FAISS · Sentence Transformers · Streamlit
+
+Autoencoder-based anomaly detection for zero-day network intrusions with real-time Kafka log streaming. Built a RAG pipeline using FAISS + Sentence Transformers to generate explainable threat reports with MITRE ATT&CK mapping. Includes an analyst dashboard for human-in-the-loop validation.
+
+---
+
+#### 📄 [ReportForge — Document Editor & Report Generator](https://github.com/Niraj1232005/reportforge) · [Live ↗](https://reportforge-neon.vercel.app)
+> Next.js · TypeScript · Supabase · PostgreSQL · Flask · Python · Tailwind CSS
+
+Production-deployed document editor with A4 live preview and DOCX export. Implements OAuth + email auth with Row-Level Security (RLS) for user-isolated data access. Flask microservice handles automated layout and formatting generation.
+
+---
+
+#### ✈️ [Voynex — AI Travel Platform](https://github.com/Niraj1232005/voynex)
+> React · TypeScript · Supabase · JWT · Stripe · Razorpay · OpenAI API · Tailwind CSS
+
+Full-stack travel platform with OpenAI-powered packing recommendations, live weather integration, and multi-currency payment processing via Stripe and Razorpay. Built with JWT auth and role-based access control.
+
+---
+
+
+### Currently
+
+- 🔨 &nbsp;Shipping projects in Next.js, TypeScript, and Python
+- 📈 &nbsp;Solving DSA problems on LeetCode (100+ and growing)
+- 🤝 &nbsp;Open to internship opportunities — full stack or ML roles
+- 📬 &nbsp;Reach me at [rathodniraj.com@gmail.com](mailto:rathodniraj.com@gmail.com)
+
+---
 
 <div align="center">
-
-<!-- Main Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Niraj1232005&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Niraj1232005&theme=dark&hide_border=false" height="165" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Niraj1232005&theme=dark&hide_border=false&layout=compact" height="165" />
-
+<sub>Mumbai, India · Updated 2025</sub>
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niraj1232005&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Niraj1232005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Key Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Niraj1232005&color=32b8c6&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 Recent Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=Voynex&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/Voynex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj1232005&repo=book-recommendation-system-ml-knn&theme=tokyonight&hide_border=true)](https://github.com/Niraj1232005/book-recommendation-system-ml-knn)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🎓 **Learning:** Advanced DSA, System Design, Cloud Architecture
-- 🔨 **Building:** AI Recommendation Systems, Cloud-Native Apps
-- 📚 **Preparing:** GATE CS 2026
-- 🔍 **Exploring:** Machine Learning, Data Engineering, Distributed Systems
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-rathod-6589932a0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niraj.rathod@vit.edu.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niraj1232005)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-⭐️ From [Niraj1232005](https://github.com/Niraj1232005) with 💙
